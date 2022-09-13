@@ -1,4 +1,18 @@
-steps to start the application 
+Steps to start the application 
 
-1. npm install
-2. npm start
+In the project directory, you can run:
+
+### `npm install`
+  
+  The npm install installs all modules that are listed on package. json file and their dependencies. 
+  npm update updates all packages in the node_modules directory and their dependencies.
+
+### `npm start`
+
+With the start argument, NPM will begin the process to make a development server available for your React application.
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+Your app is ready to be deployed!
